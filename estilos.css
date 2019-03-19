@@ -1,0 +1,27 @@
+body{
+
+	background-image: url(img/Nube01.png);
+	background-size: 100vw 100vh;
+	background-attachment: fixed;
+	color: black;
+
+}
+
+.margin-top-bottom{
+	margin: 20px 0px;
+}
+
+.marq{
+	border-radius: 50px; 
+	color: black; 
+	font-size: 1.5rem;
+	background: rgba(20, 158, 252, 0.5);
+	margin-top: 15px auto; 
+	padding: 25px;
+	box-shadow: rgba(150, 150, 150) 5px 5px 10px;
+	text-shadow: rgb(0, 0, 150) 4px 4px 6px;
+}
+
+footer{
+	padding-bottom: 15px; 
+}
